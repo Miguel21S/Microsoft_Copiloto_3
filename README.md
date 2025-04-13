@@ -4,8 +4,6 @@
 
 Este repositório contém um experimento com **IA Generativa**, onde analisamos algumas sentenças armazenadas em um arquivo de texto e refletimos sobre os conceitos aprendidos ao longo do conteúdo. O objetivo foi entender melhor como funciona a IA, especialmente no contexto de linguagem natural e ferramentas como o Microsoft Copilot.
 
-## 📁 Estrutura
-
 ---
 
 ## 🧪 Conceitos Estudados - O que entendi
